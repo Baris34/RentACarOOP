@@ -1,0 +1,7 @@
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\bin\Debug\RentACarOOP.exe.config
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\bin\Debug\RentACarOOP.exe
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\bin\Debug\RentACarOOP.pdb
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\obj\Debug\RentACarOOP.csprojAssemblyReference.cache
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\obj\Debug\RentACarOOP.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\obj\Debug\RentACarOOP.exe
+C:\Users\Baris\source\repos\RentACarOOP\RentACarOOP\obj\Debug\RentACarOOP.pdb
